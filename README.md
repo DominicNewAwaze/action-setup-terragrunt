@@ -19,6 +19,7 @@ name: Example workflow
 
 on: [push]
 
+
 jobs:
   example:
     name: Example Terragrunt interaction
